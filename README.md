@@ -18,8 +18,13 @@ This project is a sleek and responsive beauty product store app built using **Je
 
 ## 🖼️ Product Previews
 
-<img src="drawable/preview_project" alt="Product 1" width="300" />
-<img src="screenshots/preview2.png" alt="Product 2" width="300" />
+## 🖼️ App Previews
+
+### 📱 Preview 1
+![Preview2](screenshots/preview2.png)
+
+### 📱 Preview 2
+![Preview Project](screenshots/preview_project.png)
 
 
 ---
