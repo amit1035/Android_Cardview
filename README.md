@@ -25,5 +25,5 @@ This project is a sleek and responsive beauty product store app built using **Je
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/amit1035/Android_Cardview.git
    cd your-repo-name
